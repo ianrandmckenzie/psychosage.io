@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&family=Raleway:wght@200&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #EBE3D8;
+  background: black url(./psychosage_bg.jpg) center center/cover no-repeat;
+  min-height: 100vh;
+}
+
+.grenz-black {
+  font-family: 'Grenze Gotisch', cursive;
+}
